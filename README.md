@@ -206,61 +206,11 @@ Developed an AI-powered enterprise meeting platform using the MERN stack, enabli
 
 <br/>
 
-## 💻 Coding Profiles
+## 💻 Coding Profile
 
-> *Add your handles below to activate live badges:*
+> *Add your LeetCode handle below to activate the live badge:*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-add--your--handle-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-add--your--handle-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-add--your--handle-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-add--your--handle-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deepakkumar188&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumar188&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar188&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepakkumar188&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumar188&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Deepakkumar188/Deepakkumar188/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> *Snake animation requires a one-time GitHub Actions workflow setup on your profile repo.*
 
 <br/>
 
