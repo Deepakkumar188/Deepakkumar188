@@ -206,17 +206,6 @@ Developed an AI-powered enterprise meeting platform using the MERN stack, enabli
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Deepakkumar188/Deepakkumar188/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> *Snake animation requires a one-time GitHub Actions workflow setup on your profile repo.*
-
-<br/>
 
 ## 🎯 Current Focus
 
