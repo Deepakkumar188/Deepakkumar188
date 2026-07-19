@@ -235,7 +235,7 @@ open_to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-a6037a327)
 [![GitHub](https://img.shields.io/badge/GitHub-Deepakkumar188-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepakkumar188)
-[![Gmail](https://img.shields.io/badge/Gmail-deepakkumarkhande256%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumarkhande01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-deepakkumarkhande01%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumarkhande01@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-____.deepak.19-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/____.deepak.19)
 [![X](https://img.shields.io/badge/X-@Deep44213818-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Deep44213818)
 
